@@ -1,6 +1,6 @@
 # Company Sentiment Analysis Project
 
-This repository contains the notebook for my company sentiment analysis project.
+This repository contains the notebook for a company sentiment analysis project.
 The notebook covers data collection, cleaning, preprocessing, sentiment labelling, model training, and evaluation for Amazon-related employee feedback and public discussion data.
 
 ## Repository Contents
