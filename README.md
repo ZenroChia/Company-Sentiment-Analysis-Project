@@ -8,9 +8,10 @@ The notebook covers data collection, cleaning, preprocessing, sentiment labellin
 - [Company_Sentiment_Analysis_Project.ipynb](Company_Sentiment_Analysis_Project.ipynb)
 - This README
 
-## Dataset Links
+## Google Colab Notebook Link (For better viewing experience/ If notebook is not rendering properly on GitHub)
+- https://colab.research.google.com/drive/19IpUfwTFiOUh2wImn9iPlcoESCCTdQqG?usp=sharing
 
-### Raw and Preprocessed Datasets
+## Raw and Preprocessed Datasets
 
 - https://drive.google.com/drive/folders/1-vpwSCPhtN2JATGjWnTEm0gHYDJz-0WI?usp=sharing
 
