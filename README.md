@@ -7,6 +7,7 @@ The notebook covers data collection, cleaning, preprocessing, sentiment labellin
 
 - [Company_Sentiment_Analysis_Project.ipynb](Company_Sentiment_Analysis_Project.ipynb)
 - `data collection` folder which holds all python scripts made to collect the employee reviews through web-scraping or official APIs.
+- [requirements.txt](requirements.txt) file which includes all necessary libraries to run all given code.
 - This README
 
 ## Google Colab Notebook Link (For better viewing experience/ If notebook is not rendering properly on GitHub)
